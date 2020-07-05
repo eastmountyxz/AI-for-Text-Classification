@@ -13,6 +13,10 @@
  
 - CNN
 - RNN
+- LSTM
+- BiLSTM
+- TextCNN
+- Attention
 
 
 作者文章：<br />
