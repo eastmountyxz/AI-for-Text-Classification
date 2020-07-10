@@ -7,6 +7,9 @@
 
 - LR
 - DTC
+- SVM
+- KNN
+- RF
 
 
 ## 深度学习
