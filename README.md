@@ -20,6 +20,8 @@
 - BiLSTM
 - TextCNN
 - Attention
+- BiLSTM-CNN
+- BiLSTM-CNN+Attention
 
 
 作者文章：<br />
